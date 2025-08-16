@@ -1,4 +1,4 @@
-<!-- Anime Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://i.imgur.com/8MupZHY.gif" width="100%" alt="anime banner"/>
 </p>
@@ -29,16 +29,9 @@
 
 ### 🎵 Now Playing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff77ff&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
-
----
-
-### 🌸 Anime Vibes
-<p align="center">
-  <img src="https://i.imgur.com/oK0z6.gif" width="200" alt="Anime Girl"/>
-  <img src="https://i.imgur.com/1ZdR7.gif" width="200" alt="Gojo Satoru"/>
-  <img src="https://i.imgur.com/9Uz3V.gif" width="200" alt="Anime Wink"/>
+  <a href="https://open.spotify.com/track/6tT6eQE7hdcQ6KzOdkWZXp?si=4544ab87a38147da" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff77ff&bar_color_cover=false&uri=spotify:track:6tT6eQE7hdcQ6KzOdkWZXp" alt="Now Playing" />
+  </a>
 </p>
 
 ---
@@ -54,5 +47,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="[[[https://i.imgur.com/w5rF9.gif](https://i.pinimg.com/736x/d7/7b/46/d77b463d8e522deb24ec83ea9f7ce266.jpg)](https://i.pinimg.com/736x/d7/7b/46/d77b463d8e522deb24ec83ea9f7ce266.jpg)](https://i.pinimg.com/736x/d7/7b/46/d77b463d8e522deb24ec83ea9f7ce266.jpg)" width="100%" alt="anime footer"/>
+  <img src="https://i.pinimg.com/736x/d7/7b/46/d77b463d8e522deb24ec83ea9f7ce266.jpg" width="100%" alt="footer"/>
 </p>
