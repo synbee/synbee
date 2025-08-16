@@ -1,12 +1,10 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="100%" alt="anime banner"/>
+  <img src="https://i.pinimg.com/1200x/f8/db/e9/f8dbe9ef2919218747f4ec4dc5ddacfb.jpg" width="100%" alt="anime banner"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/synbee">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF77FF&center=true&vCenter=true&width=600&lines=👾+Welcome+to+ELO's+Profile;✨+Anime+Lover+%7C+Dev+%7C+Otaku;🔥+Coding+by+Day+%2C+Anime+by+Night;🚀+Building+cool+things..." alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF77FF&center=true&vCenter=true&width=600&lines=Welcome+gang;" alt="Typing Animation" />
   </a>
 </p>
 
@@ -27,15 +25,7 @@
 
 ---
 
-### 🎵 Now Playing
-<p align="center">
-  <a href="https://open.spotify.com/track/6tT6eQE7hdcQ6KzOdkWZXp?si=4544ab87a38147da" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b27382e13a1adf5d6a90c6f7ee57" width="350" alt="Spotify Song"/>
-  </a>
-</p>
-
----
-
+<!--
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/synbee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -44,8 +34,12 @@
 </p>
 
 ---
+-->
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/d7/7b/46/d77b463d8e522deb24ec83ea9f7ce266.jpg" width="100%" alt="footer"/>
+  <img src="https://i.pinimg.com/736x/d7/7b/46/d77b463d8e522deb24ec83ea9f7ce266.jpg" width="50%" alt="footer"/>
+</p>
+
+<p align="center">
+  Bye Bye
 </p>
