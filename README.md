@@ -30,7 +30,7 @@
 ### 🎵 Now Playing
 <p align="center">
   <a href="https://open.spotify.com/track/6tT6eQE7hdcQ6KzOdkWZXp?si=4544ab87a38147da" target="_blank">
-    <img src="https://open.spotify.com/track/6tT6eQE7hdcQ6KzOdkWZXp?si=4544ab87a38147da&nd=1" alt="Spotify Track" width="400"/>
+    <img src="https://i.scdn.co/image/ab67616d0000b27382e13a1adf5d6a90c6f7ee57" width="350" alt="Spotify Song"/>
   </a>
 </p>
 
