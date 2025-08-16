@@ -1,6 +1,6 @@
 <!-- Anime Banner -->
 <p align="center">
-  <img src="https://i.waifu.pics/Q5a0g27.gif" width="100%" alt="anime banner"/>
+  <img src="https://i.imgur.com/8MupZHY.gif" width="100%" alt="anime banner"/>
 </p>
 
 <!-- Typing Animation -->
@@ -36,9 +36,9 @@
 
 ### 🌸 Anime Vibes
 <p align="center">
-  <img src="https://media.tenor.com/NpP9Wf7XspYAAAAd/nezuko-anime.gif" width="200"/>
-  <img src="https://media.tenor.com/xIuVijq0B8oAAAAd/gojo-satoru-anime.gif" width="200"/>
-  <img src="https://media.tenor.com/JhQ8JwLZMPoAAAAC/anime-wink.gif" width="200"/>
+  <img src="https://i.imgur.com/oK0z6.gif" width="200" alt="Anime Girl"/>
+  <img src="https://i.imgur.com/1ZdR7.gif" width="200" alt="Gojo Satoru"/>
+  <img src="https://i.imgur.com/9Uz3V.gif" width="200" alt="Anime Wink"/>
 </p>
 
 ---
@@ -52,6 +52,7 @@
 
 ---
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://i.waifu.pics/15mU~R4.gif" width="100%" alt="footer anime"/>
+  <img src="https://i.imgur.com/w5rF9.gif" width="100%" alt="anime footer"/>
 </p>
