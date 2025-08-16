@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://i.pinimg.com/1200x/21/da/6a/21da6a941b118ce9bf8e44bf95b142b7.jpg">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4abuh6eltxcfq9a5d0mqy8g1s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
   </a>
 </p>
