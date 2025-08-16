@@ -54,5 +54,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="[https://i.imgur.com/w5rF9.gif](https://i.pinimg.com/736x/d7/7b/46/d77b463d8e522deb24ec83ea9f7ce266.jpg)" width="100%" alt="anime footer"/>
+  <img src="[[https://i.imgur.com/w5rF9.gif](https://i.pinimg.com/736x/d7/7b/46/d77b463d8e522deb24ec83ea9f7ce266.jpg)](https://i.pinimg.com/736x/d7/7b/46/d77b463d8e522deb24ec83ea9f7ce266.jpg)" width="100%" alt="anime footer"/>
 </p>
