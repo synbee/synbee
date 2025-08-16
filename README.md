@@ -30,7 +30,7 @@
 ### 🎵 Now Playing
 <p align="center">
   <a href="https://open.spotify.com/track/6tT6eQE7hdcQ6KzOdkWZXp?si=4544ab87a38147da" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff77ff&bar_color_cover=false&uri=spotify:track:6tT6eQE7hdcQ6KzOdkWZXp" alt="Now Playing" />
+    <img src="https://i.scdn.co/image/ab67616d0000b27382e13a1adf5d6a90c6f7ee57" alt="Now Playing" width="300"/>
   </a>
 </p>
 
